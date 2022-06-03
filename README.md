@@ -1,4 +1,4 @@
-# Armament-and-unemployment-data-analysis
+# Armament-and-unemployment-data-analysis (09/22)
 - Bachelor thesis: Analysis of the connection between the armament industry and unemployment in Germany during 
 - Digitalization and preparation through Python (take into account that these are my first steps in coding without any preknowledge)
 - Application of a Panel-data regression analysis in R
